@@ -4,7 +4,7 @@ A polished and fully responsive static CV website built with Vue 3 + Vite. The p
 
 ## Live Demo
 
-Will be added after Vercel deployment.
+https://tristan-cv.vercel.app
 
 ## Features
 
